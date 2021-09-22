@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>com.github.MannaNebesnaya</groupId>
 	<artifactId>telegram-bot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.0-SNAPSHOT</version>
 	<name>TelegramBot</name>
-	<description>Telegam Bot for check hypothesis</description>
+	<description>Telegram Bot for check hypothesis</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
