@@ -4,4 +4,4 @@ build/*
 out/*
 .gradle/*
 target/*
-src/main/resources/hidden.properties
+src/main/resources/application.properties
